@@ -1,0 +1,85 @@
+/* Utilities  */
+
+.body {
+  font-family: "Poppins", sans-serif;
+}
+.heading_custom {
+  font-weight: 600;
+  font-size: 48px;
+}
+.heading_custom span {
+  color: rgba(231, 111, 81, 1);
+}
+@media (max-width: 480px) {
+  .heading_custom {
+    font-size: 36px;
+  }
+}
+
+/* Header Styles */
+
+.header_custom {
+  background-color: rgb(38, 70, 83);
+}
+.button_custom {
+  padding: 10px 46px;
+  background-color: rgba(231, 111, 81, 1);
+}
+.custom_small_heading_one {
+  font-size: 14px;
+  font-weight: 300;
+}
+
+/* Featured bikes 2021 Section Styles */
+.custom_small_heading_two {
+  font-size: 14px;
+  font-weight: 600;
+  color: rgba(231, 111, 81, 1);
+}
+.gray_img_custom {
+  filter: grayscale(100%);
+}
+
+/* Latest News Styles */
+
+.custom_latest_news_image {
+  width: 90%;
+  margin: 4% auto;
+}
+.custom_shadow {
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.15);
+}
+
+/* Happy Clients Say section */
+
+.custom_user_image {
+  width: 149px;
+  height: 149px;
+}
+.custom_star,
+.custom_clients_heading {
+  color: #e77c40;
+}
+.custom_user_name {
+  color: rgba(35, 166, 240, 1);
+  font-size: 14px;
+  font-weight: 600;
+}
+.custom_user_profession {
+  color: rgba(37, 43, 66, 1);
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* FAQ Section Styles */
+
+.faq_qus_custom {
+  font-size: 20px;
+  width: 500;
+}
+
+/* Subscription Section Styles */
+
+.custom_subscription_section {
+  background-color: rgba(137, 43, 226, 0.726);
+}
